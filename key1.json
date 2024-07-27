@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stalwart-poet-399913",
+  "private_key_id": "f7494d6452aa8d8e7cf05933f3d86a78b1c5af62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDqqorhazuQt0hK\n04BRyT0F3kHiFLfo+vgqoI7jweLNDxA0NsbYYWXNTteGsU43cAPPfhzboBm6cSM2\nD5qW7mhhM7hJ0ic3weiOxQ4aQOoPD5WDf/DTwsaWSF4EVh691LVYslaHb0LFmy7F\n2z06nKD2CMqgvF1tDglP1Yk4V5gp2iXlmezJugVwxx3I55wV+cBu4412gp/fgRra\nEi0vS9WJHSzZC6RincO48OpXaWuuoknJiQg4N5Dt9zLlnzLZCEtWf/k5GOSBTlqJ\nRWIYA4GI6SWKkjlGTTaYDpEsjQl7hGslZsTNH97pn6AWOaon0PYYZxWJ94hKCPuH\nz1G4GqmBAgMBAAECggEAAMzVCMs3AeSKbv2CXiBzRd9dEwBo+AHLhCOFUs3+3OrQ\nfQPx/4IiFFs3Hsx6if61Whp6dqdqGC+lmQ9Gyghw+4bVpafRd/UAPpgIjeetGahU\n8ghhgFFlyJLS4UyBTVttBqOfxXK7hrkEazW27lS3PobUD8FxAdKOWAd8DDTRZVhi\n+IHNFdJkuHf0yfIK7yO2qj0NNZWHQBOnURS1gNaUQbCh6tNGZjbOATGZo+nXrTc+\nNciRwliE9dkQVAb60LQhOtHiLEIrZm56twzCdddjUq/xNndZkWmZOrXdqfyqm3e2\n0vibWLLQTjXwCF+Qy2hxDbcNMEx1R6iWFM3OEq5CPQKBgQD9eGtIaXL5FlKhqfqP\nxk1U9CCWFzb48ou8tulwbX4xRQQ5GDQyzDy11wTt/dI1CpOUCiOGz3d8zJa4fkUS\nu7A+REwicz+RswUneVtffOR9AuFsaO2LZ4kcw8mf9t5CO799cebUlsI4vYC4JpWN\nzzTTKCk1ECSbnhAfLJyKtuqxrwKBgQDtAhTTOPlXkRh5SZsHGCuUe5PG4y4nS9Qv\nPc56w3n3nye0xoNb2WkVvXPRoo32KCBjdffzUSAwteOIgVlKidlrmC1mJEhI2pm3\ng1dXUPWvTOcjVp1GcjsiJjhm/FmMu9EZGtVM9Bh7IlEqfCFhtB72eNgwf4f960Qm\nFLEzL2sTzwKBgCGEPNt0Zimd1AtgiKteU3d6WJzAMRq2J9gqb6/YKqmlMKvEEZLu\nAtEgv5wgxh0RavZWaOA4qtory3pV6BhUDTgOm+qqRqujenj/yR9VSnllWh2VumOG\nq1DMaurmH/muIOIbn6RY0xHhrRWstHXuAlQxqVFE8zJIsmUM5x5IlbwtAoGAUKCv\novez43VJ5SEEK1KuqLGtoTBx6A5k3blh/+N2H6Y2JMqPr3RzymCMARoSv1YBRrTA\nKDdGAywtfqe6T6A7pd28PA5FxPsQ5hw5X0v8eKlpzFzP3kJIGaL09xwL/tN6G9dE\nDwzPMzyGbjSSSqGzEtgje8Q26EvcADRz39zWyYMCgYEA1Fr8k/zjvl93MSpBmHLC\n/6pNg9US3EihlLTxQxDiPJiyr/Uu/eGjKzPkVlZBxZ0qzirQJnf8unPvz+N7L8We\nIFYLREAgKTu4vp2bKi/2B62KZ+2ydgzY0ejnEJNWH+sRhkZjVP5gJBMHRUF/I9j6\n8xVW+A0BKmnZp5UHQ05zV0g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets@stalwart-poet-399913.iam.gserviceaccount.com",
+  "client_id": "101343225361712109058",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets%40stalwart-poet-399913.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
